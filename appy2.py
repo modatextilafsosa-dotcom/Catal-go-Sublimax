@@ -67,10 +67,25 @@ def cargar_datos():
         {"Colección": "Magic", "Modelo": "Magic 02", "URL": "https://drive.google.com/file/d/156kpRWHII4Z1qf6iAd1vo26nG3pQqL9Z/view?usp=drivesdk"},
         {"Colección": "Magic", "Modelo": "Magic 01", "URL": "https://drive.google.com/file/d/137qwFVsBDfZgCHUsQz6xOjRg2rsdbdrr/view?usp=drivesdk"},
         # Mago de oz
-        {"Colección": "Mago de oz", "Modelo": "Espantapajaro", "URL": "https://drive.google.com/file/d/1-1IBqhlAfnvE8R5yNQ7zJkC11-mTZddV/view?usp=drivesdk"},
-        {"Colección": "Mago de oz", "Modelo": "Bruja", "URL": "https://drive.google.com/file/d/14ROBQC-Iu7OhxyIIS-bm4hHaVnemEVvC/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 09", "URL": "https://drive.google.com/file/d/1ukW-YOPQv6kji5INlQX5MXmGwe6TJUDx/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 08", "URL": "https://drive.google.com/file/d/1otDrujGGeENCUm55QQO0xvnseNgNYyV_/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 07", "URL": "https://drive.google.com/file/d/1-1IBqhlAfnvE8R5yNQ7zJkC11-mTZddV/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 06", "URL": "https://drive.google.com/file/d/1SMIukNG9LrqR06T5SQm0zNTFcdiC1ehd/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 05", "URL": "https://drive.google.com/file/d/1SUYLubYzefH2qVSZGcLX5PJ_ZiloRjwm/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 04", "URL": "https://drive.google.com/file/d/14ROBQC-Iu7OhxyIIS-bm4hHaVnemEVvC/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 03", "URL": "https://drive.google.com/file/d/1CCED0WJksAGU3Y_Is-wzMlFpE03T9rLt/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 02", "URL": "https://drive.google.com/file/d/1Knqd2ZanLMrWrSAYsUi6RuKAMniSCMEz/view?usp=drivesdk"},
+        {"Colección": "Mago de oz", "Modelo": "Oz 01", "URL": "https://drive.google.com/file/d/1cvblxBS6tlg6XcO9FM_XzkgzWcPIsAmC/view?usp=drivesdk"},
         # Warzone
-        {"Colección": "Warzone", "Modelo": "Nevermore", "URL": "https://drive.google.com/file/d/1GNSV2cJJYMGMg8SbbOMlm8GoO3lUGVoc/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 09", "URL": "https://drive.google.com/file/d/1bAEGB19CnZp-Gj0eRQSfR_tBNtHDGIAT/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 08", "URL": "https://drive.google.com/file/d/1yweg0LF2DpUfB68ZhXr02wWOXqt9wa4j/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 07", "URL": "https://drive.google.com/file/d/1u2cpIIMxyEizFHffHg5aaW6f9Y09BvAf/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 06", "URL": "https://drive.google.com/file/d/1JyMqTilwO4ICy94Bs6Qm-ImjFDb74Y6r/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 05", "URL": "https://drive.google.com/file/d/1LcBNHUCxi4mzWIS5btY_aUVk4zhyLtb6/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 04", "URL": "https://drive.google.com/file/d/1z1p1Kd5milonsEUh-h6-d1KZHMmn6WcR/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 03", "URL": "https://drive.google.com/file/d/1ej-rFK-JzOJgJTN22Lh7DS79Zkd-TQnj/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 02", "URL": "https://drive.google.com/file/d/1GNSV2cJJYMGMg8SbbOMlm8GoO3lUGVoc/view?usp=drivesdk"},
+        {"Colección": "Warzone", "Modelo": "Warzone 01", "URL": "https://drive.google.com/file/d/1nhJFjJvLlF3RRn5xELS-ReaYjc30V-9N/view?usp=drivesdk"},
         # Bob
         {"Colección": "Bob", "Modelo": "Piña", "URL": "https://drive.google.com/file/d/13XrFrcsQSvS9cK7k4r9eEfCbiBdK6-A3/view?usp=drivesdk"},
         {"Colección": "Bob", "Modelo": "Patricio", "URL": "https://drive.google.com/file/d/1b61hUhjfCxPAYHl8NCc1_p2bTtQo_tvF/view?usp=drivesdk"}
@@ -83,6 +98,15 @@ df_catalogo = cargar_datos()
 TELEFONO_WHATSAPP = "525629088870"
 
 if "carrito" not in st.session_state:
+    st.session_state.carrito = {}
+
+# Función para limpiar el pedido borrando tanto el carrito como las claves de los inputs
+def limpiar_pedido():
+    # Eliminamos las llaves guardadas por los st.number_input
+    for key in list(st.session_state.keys()):
+        if key.startswith("input_"):
+            st.session_state[key] = 0.0
+    # Limpiamos el carrito principal
     st.session_state.carrito = {}
 
 st.title("📱 Catálogo de Sublimados Interactivos")
@@ -165,9 +189,8 @@ with col_derecha:
         
         st.metric(label="Total Metros Seleccionados", value=f"{total_metros} m")
         
-        if st.button("Limpiar todo el Pedido"):
-            st.session_state.carrito = {}
-            st.rerun()
+        # Usamos on_click llamando a la función que limpia todo correctamente
+        st.button("Limpiar todo el Pedido", on_click=limpiar_pedido)
             
         st.write("---")
         
@@ -175,7 +198,7 @@ with col_derecha:
         texto_codificado = urllib.parse.quote(texto_whatsapp)
         enlace_wa = f"https://wa.me/{TELEFONO_WHATSAPP}?text={texto_codificado}"
         
-        # Implementación nativa de Streamlit para evitar que los navegadores bloqueen la ventana emergente
+        # Implementación nativa de Streamlit
         st.link_button(
             "🚀 Solicitar pedido por WhatsApp", 
             enlace_wa, 
