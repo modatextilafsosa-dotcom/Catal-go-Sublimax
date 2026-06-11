@@ -224,55 +224,55 @@ def cargar_datos():
         {"Colección": "HIP-HOP", "Modelo": "HH 02", "URL": "https://drive.google.com/file/d/1VbTUj7RbATrNbqy69ooTyuV5dIouGwFH/view?usp=drivesdk"},
         {"Colección": "HIP-HOP", "Modelo": "HH 01", "URL": "https://drive.google.com/file/d/114SlJ4mabNCdbYDXyfCUP4h5hCQihuRC/view?usp=drivesdk"},
         # Mítico
-        {"Colección": "Mitico", "Modelo": "Mítico 08", "URL": "https://drive.google.com/file/d/1HT9fZmHHjFV0SS7u2ayr0KkoESDst5Ha/view?usp=drivesdk"},
-        {"Colección": "Mitico", "Modelo": "Mítico 07", "URL": "https://drive.google.com/file/d/1evMqWBepqJpoN5Jsj69A88wiEDxNu2eB/view?usp=drivesdk"},
-        {"Colección": "Mitico", "Modelo": "Mítico 06", "URL": "https://drive.google.com/file/d/1UZWS2zMPS4AaTY5W1sk8oWD-zTfT3U8s/view?usp=drivesdk"},
-        {"Colección": "Mitico", "Modelo": "Mítico 05", "URL": "https://drive.google.com/file/d/1UyNCZW5xxcDntdWcneS9aHpHh-UosgTJ/view?usp=drivesdk"},
-        {"Colección": "Mitico", "Modelo": "Mítico 04", "URL": "https://drive.google.com/file/d/1H7JGJanWnIUUlctwwKDxQCImVjbGkL07/view?usp=drivesdk"},
-        {"Colección": "Mitico", "Modelo": "Mítico 03", "URL": "https://drive.google.com/file/d/1-t3NacABMgmwiM_1E_30zlaR950QrERm/view?usp=drivesdk"},
-        {"Colección": "Mitico", "Modelo": "Mítico 02", "URL": "https://drive.google.com/file/d/1Sn4ojz8oHi6udCY2Ppnkr94yIRsDmjSl/view?usp=drivesdk"},
-        {"Colección": "Mitico", "Modelo": "Mítico 01", "URL": "https://drive.google.com/file/d/1e4TR3OOhAmjU-2JLgmD1Z5Kvln60dARM/view?usp=drivesdk"},
-        # Azteca
-        {"Colección": "Azteca", "Modelo": "Runa", "URL": "https://drive.google.com/file/d/1B283VwYrsFbyFBm5_hIZ6QRJhw3BU1uB/view?usp=drivesdk"},
-        {"Colección": "Azteca", "Modelo": "Ritual", "URL": "https://drive.google.com/file/d/1ZObOBlOAEXu2DEhNRohEMF_joSqE-bLt/view?usp=drivesdk"},
-        {"Colección": "Azteca", "Modelo": "Azteca", "URL": "https://drive.google.com/file/d/1wGxJGFBGrzeLJNj5z1hhvKWfEWAtq-EK/view?usp=drivesdk"},
-        {"Colección": "Azteca", "Modelo": "Quetzalcoatl", "URL": "https://drive.google.com/file/d/1eUOYu30Fw3Tp690aAjiURD2jxIcYaL9B/view?usp=drivesdk"},
-        {"Colección": "Azteca", "Modelo": "Huitzilopochtli", "URL": "https://drive.google.com/file/d/1LBwZZ2ervENCYW5XFAmSg_16MpaBBhDf/view?usp=drivesdk"},
-        # Rasta
-        {"Colección": "Rasta", "Modelo": "Rasta 04", "URL": "https://drive.google.com/file/d/1wqC7v3_5G7UkE71lg7mKlMr4z9o-SBj1/view?usp=drivesdk"}, 
-        {"Colección": "Rasta", "Modelo": "Rasta 03", "URL": "https://drive.google.com/file/d/1wcEI7GZrwn6Eb8mjEwok-J3OPwwZ1CR9/view?usp=drivesdk"},
-        {"Colección": "Rasta", "Modelo": "Rasta 02", "URL": "https://drive.google.com/file/d/1xuIlJzvFqP2xikTapk7ruDG1HWsHeThS/view?usp=drivesdk"},
-        {"Colección": "Rasta", "Modelo": "Rasta 01", "URL": "https://drive.google.com/file/d/1t6apRPldk1mr1TB_jEvHtEb0pz4FMyiM/view?usp=drivesdk"},
-        # Psycodelic
-        {"Colección": "Psy", "Modelo": "Psy 05", "URL": "https://drive.google.com/file/d/1L9KJ9IFjK5uD1mgkbuCHzuUCZfDBHUnw/view?usp=drivesdk"},
-        {"Colección": "Psy", "Modelo": "Psy 04", "URL": "https://drive.google.com/file/d/1VMM8e_YXKiZGTHbZsFeLzL-Z_r0uCvTS/view?usp=drivesdk"},
-        {"Colección": "Psy", "Modelo": "Psy 03", "URL": "https://drive.google.com/file/d/16_IlcfYuRiIQv5ckkpIM2tGDuf73Qggq/view?usp=drivesdk"},
-        {"Colección": "Psy", "Modelo": "Psy 02", "URL": "https://drive.google.com/file/d/1QcdemBtzq4zC8QFmcrtdt_5vmJpTA0Dm/view?usp=drivesdk"},
-        {"Colección": "Psy", "Modelo": "Psy 01", "URL": "https://drive.google.com/file/d/1lV7F7e7rnlnvJZcL-uipp050GEYl2w_A/view?usp=drivesdk"},
-        # Amiri
-        {"Colección": "Amiri", "Modelo": "Amiri VI", "URL": "https://drive.google.com/file/d/1HFM2iIF81o-iUU_uUOllmuDg1E3jNuSP/view?usp=drivesdk"},
-        {"Colección": "Amiri", "Modelo": "Amiri V", "URL": "https://drive.google.com/file/d/1UlP7dK8pfKUHS5yTEO45qoXeL28SB7gn/view?usp=drivesdk"},
-        {"Colección": "Amiri", "Modelo": "Amiri IV", "URL": "https://drive.google.com/file/d/1Tprtw4hQK69sEaLUuUGwv13t-vGnMDZv/view?usp=drivesdk"},
-        {"Colección": "Amiri", "Modelo": "Amiri III", "URL": "https://drive.google.com/file/d/1Jt3vfBcWiAdro0L-hTjIFmRmEDXMmk99/view?usp=drivesdk"},
-        {"Colección": "Amiri", "Modelo": "Amiri II", "URL": "https://drive.google.com/file/d/1_lSQEmgNWcHW0oscEDlLUaqK6ixWhMP8/view?usp=drivesdk"},
-        {"Colección": "Amiri", "Modelo": "Amiri I", "URL": "https://drive.google.com/file/d/1fg88GfmNTBYoqMnWmrZ0fRuAR_79UZZo/view?usp=drivesdk"},
-        # Secretos de la naturaleza
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 11", "URL": "https://drive.google.com/file/d/1zsETwWwvv9HbVAmSIvAUYZP3cPWVokCX/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 10", "URL": "https://drive.google.com/file/d/1zbSM-RU6UGd2YDwwOLM6pDCrrjBGG8uN/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 09", "URL": "https://drive.google.com/file/d/1t30QRQLA-b8Ga6d7eW5iNa19gWAf2CJj/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 08", "URL": "https://drive.google.com/file/d/1aOc2-YpqFXc3M2Brj9jlsAemkD5ZAiij/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 07", "URL": "https://drive.google.com/file/d/1tf5FIW4RtoDigna5zqmPJNMdchL7i_6y/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 06", "URL": "https://drive.google.com/file/d/1y9YThfTQ8zlAiF6A43g_ftUXDB0KdQHx/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 05", "URL": "https://drive.google.com/file/d/1z72uDBAlkQWO-uaS_czzOk_Af746V0-P/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 04", "URL": "https://drive.google.com/file/d/10JyWxrXvETOn2MXFL6D5lhks0kfdDyQY/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 03", "URL": "https://drive.google.com/file/d/1Uklgv6FtzPxRfTx4CbFSxs1pklTii65q/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 02", "URL": "https://drive.google.com/file/d/15o3Cne_DCfEc-atQIn4Z64mHIOcPFupt/view?usp=drivesdk"},
-        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 01", "URL": "https://drive.google.com/file/d/17eiFYcllPoY4bokdmkg-AYRylIb6TCh4/view?usp=drivesdk"},
-        # Varios
-        {"Colección": "varios", "Modelo": "Balón", "URL": "https://drive.google.com/file/d/1Hqvwl6pKZvr7pd8PlZ611JUknkZ-U6Ji/view?usp=drivesdk"},
-        {"Colección": "varios", "Modelo": "Fut", "URL": "https://drive.google.com/file/d/1oHrCq_U3I5-Pym6zeiutnA0elQ46aSwi/view?usp=drivesdk"},
-        {"Colección": "varios", "Modelo": "Gol", "URL": "https://drive.google.com/file/d/19MaElY7FoWDDP9IqkNROmlcsicC335Pw/view?usp=drivesdk"},
-        {"Colección": "varios", "Modelo": "Filosofía", "URL": "https://drive.google.com/file/d/1qUZDk6msLsBUGGOKTaRnXDZgms0__EXG/view?usp=drivesdk"},
+        {"Colección": "Mitico", "Modelo": "Mítico 08", "URL": "https://drive.google.com/file/d/1HT9fZmHHjFV0SS7u2ayr0KkoESDst5Ha/view?usp=drivesdk"},
+        {"Colección": "Mitico", "Modelo": "Mítico 07", "URL": "https://drive.google.com/file/d/1evMqWBepqJpoN5Jsj69A88wiEDxNu2eB/view?usp=drivesdk"},
+        {"Colección": "Mitico", "Modelo": "Mítico 06", "URL": "https://drive.google.com/file/d/1UZWS2zMPS4AaTY5W1sk8oWD-zTfT3U8s/view?usp=drivesdk"},
+        {"Colección": "Mitico", "Modelo": "Mítico 05", "URL": "https://drive.google.com/file/d/1UyNCZW5xxcDntdWcneS9aHpHh-UosgTJ/view?usp=drivesdk"},
+        {"Colección": "Mitico", "Modelo": "Mítico 04", "URL": "https://drive.google.com/file/d/1H7JGJanWnIUUlctwwKDxQCImVjbGkL07/view?usp=drivesdk"},
+        {"Colección": "Mitico", "Modelo": "Mítico 03", "URL": "https://drive.google.com/file/d/1-t3NacABMgmwiM_1E_30zlaR950QrERm/view?usp=drivesdk"},
+        {"Colección": "Mitico", "Modelo": "Mítico 02", "URL": "https://drive.google.com/file/d/1Sn4ojz8oHi6udCY2Ppnkr94yIRsDmjSl/view?usp=drivesdk"},
+        {"Colección": "Mitico", "Modelo": "Mítico 01", "URL": "https://drive.google.com/file/d/1e4TR3OOhAmjU-2JLgmD1Z5Kvln60dARM/view?usp=drivesdk"},
+        # Azteca
+        {"Colección": "Azteca", "Modelo": "Runa", "URL": "https://drive.google.com/file/d/1B283VwYrsFbyFBm5_hIZ6QRJhw3BU1uB/view?usp=drivesdk"},
+        {"Colección": "Azteca", "Modelo": "Ritual", "URL": "https://drive.google.com/file/d/1ZObOBlOAEXu2DEhNRohEMF_joSqE-bLt/view?usp=drivesdk"},
+        {"Colección": "Azteca", "Modelo": "Azteca", "URL": "https://drive.google.com/file/d/1wGxJGFBGrzeLJNj5z1hhvKWfEWAtq-EK/view?usp=drivesdk"},
+        {"Colección": "Azteca", "Modelo": "Quetzalcoatl", "URL": "https://drive.google.com/file/d/1eUOYu30Fw3Tp690aAjiURD2jxIcYaL9B/view?usp=drivesdk"},
+        {"Colección": "Azteca", "Modelo": "Huitzilopochtli", "URL": "https://drive.google.com/file/d/1LBwZZ2ervENCYW5XFAmSg_16MpaBBhDf/view?usp=drivesdk"},
+        # Rasta
+        {"Colección": "Rasta", "Modelo": "Rasta 04", "URL": "https://drive.google.com/file/d/1wqC7v3_5G7UkE71lg7mKlMr4z9o-SBj1/view?usp=drivesdk"}, 
+        {"Colección": "Rasta", "Modelo": "Rasta 03", "URL": "https://drive.google.com/file/d/1wcEI7GZrwn6Eb8mjEwok-J3OPwwZ1CR9/view?usp=drivesdk"},
+        {"Colección": "Rasta", "Modelo": "Rasta 02", "URL": "https://drive.google.com/file/d/1xuIlJzvFqP2xikTapk7ruDG1HWsHeThS/view?usp=drivesdk"},
+        {"Colección": "Rasta", "Modelo": "Rasta 01", "URL": "https://drive.google.com/file/d/1t6apRPldk1mr1TB_jEvHtEb0pz4FMyiM/view?usp=drivesdk"},
+        # Psycodelic
+        {"Colección": "Psy", "Modelo": "Psy 05", "URL": "https://drive.google.com/file/d/1L9KJ9IFjK5uD1mgkbuCHzuUCZfDBHUnw/view?usp=drivesdk"},
+        {"Colección": "Psy", "Modelo": "Psy 04", "URL": "https://drive.google.com/file/d/1VMM8e_YXKiZGTHbZsFeLzL-Z_r0uCvTS/view?usp=drivesdk"},
+        {"Colección": "Psy", "Modelo": "Psy 03", "URL": "https://drive.google.com/file/d/16_IlcfYuRiIQv5ckkpIM2tGDuf73Qggq/view?usp=drivesdk"},
+        {"Colección": "Psy", "Modelo": "Psy 02", "URL": "https://drive.google.com/file/d/1QcdemBtzq4zC8QFmcrtdt_5vmJpTA0Dm/view?usp=drivesdk"},
+        {"Colección": "Psy", "Modelo": "Psy 01", "URL": "https://drive.google.com/file/d/1lV7F7e7rnlnvJZcL-uipp050GEYl2w_A/view?usp=drivesdk"},
+        # Amiri
+        {"Colección": "Amiri", "Modelo": "Amiri VI", "URL": "https://drive.google.com/file/d/1HFM2iIF81o-iUU_uUOllmuDg1E3jNuSP/view?usp=drivesdk"},
+        {"Colección": "Amiri", "Modelo": "Amiri V", "URL": "https://drive.google.com/file/d/1UlP7dK8pfKUHS5yTEO45qoXeL28SB7gn/view?usp=drivesdk"},
+        {"Colección": "Amiri", "Modelo": "Amiri IV", "URL": "https://drive.google.com/file/d/1Tprtw4hQK69sEaLUuUGwv13t-vGnMDZv/view?usp=drivesdk"},
+        {"Colección": "Amiri", "Modelo": "Amiri III", "URL": "https://drive.google.com/file/d/1Jt3vfBcWiAdro0L-hTjIFmRmEDXMmk99/view?usp=drivesdk"},
+        {"Colección": "Amiri", "Modelo": "Amiri II", "URL": "https://drive.google.com/file/d/1_lSQEmgNWcHW0oscEDlLUaqK6ixWhMP8/view?usp=drivesdk"},
+        {"Colección": "Amiri", "Modelo": "Amiri I", "URL": "https://drive.google.com/file/d/1fg88GfmNTBYoqMnWmrZ0fRuAR_79UZZo/view?usp=drivesdk"},
+        # Secretos de la naturaleza
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 11", "URL": "https://drive.google.com/file/d/1zsETwWwvv9HbVAmSIvAUYZP3cPWVokCX/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 10", "URL": "https://drive.google.com/file/d/1zbSM-RU6UGd2YDwwOLM6pDCrrjBGG8uN/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 09", "URL": "https://drive.google.com/file/d/1t30QRQLA-b8Ga6d7eW5iNa19gWAf2CJj/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 08", "URL": "https://drive.google.com/file/d/1aOc2-YpqFXc3M2Brj9jlsAemkD5ZAiij/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 07", "URL": "https://drive.google.com/file/d/1tf5FIW4RtoDigna5zqmPJNMdchL7i_6y/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 06", "URL": "https://drive.google.com/file/d/1y9YThfTQ8zlAiF6A43g_ftUXDB0KdQHx/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 05", "URL": "https://drive.google.com/file/d/1z72uDBAlkQWO-uaS_czzOk_Af746V0-P/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 04", "URL": "https://drive.google.com/file/d/10JyWxrXvETOn2MXFL6D5lhks0kfdDyQY/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 03", "URL": "https://drive.google.com/file/d/1Uklgv6FtzPxRfTx4CbFSxs1pklTii65q/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 02", "URL": "https://drive.google.com/file/d/15o3Cne_DCfEc-atQIn4Z64mHIOcPFupt/view?usp=drivesdk"},
+        {"Colección": "Secretos de la naturaleza", "Modelo": "Secretos 01", "URL": "https://drive.google.com/file/d/17eiFYcllPoY4bokdmkg-AYRylIb6TCh4/view?usp=drivesdk"},
+        # Varios
+        {"Colección": "varios", "Modelo": "Balón", "URL": "https://drive.google.com/file/d/1Hqvwl6pKZvr7pd8PlZ611JUknkZ-U6Ji/view?usp=drivesdk"},
+        {"Colección": "varios", "Modelo": "Fut", "URL": "https://drive.google.com/file/d/1oHrCq_U3I5-Pym6zeiutnA0elQ46aSwi/view?usp=drivesdk"},
+        {"Colección": "varios", "Modelo": "Gol", "URL": "https://drive.google.com/file/d/19MaElY7FoWDDP9IqkNROmlcsicC335Pw/view?usp=drivesdk"},
+        {"Colección": "varios", "Modelo": "Filosofía", "URL": "https://drive.google.com/file/d/1qUZDk6msLsBUGGOKTaRnXDZgms0__EXG/view?usp=drivesdk"},
     ]
     return pd.DataFrame(datos)
 
@@ -331,6 +331,7 @@ with col_izquierda:
                 else:
                     valor_actual = float(registro_actual)
                 
+                # Monitoreamos cambios usando una variable temporal
                 metros = st.number_input(
                     "Metros:", 
                     min_value=0.0, 
@@ -340,14 +341,17 @@ with col_izquierda:
                     key=f"input_{key_id}"
                 )
                 
-                if metros > 0:
-                    st.session_state.carrito[key_id] = {
-                        "Colección": fila["Colección"],
-                        "Modelo": fila["Modelo"],
-                        "Metros": metros
-                    }
-                elif key_id in st.session_state.carrito and metros == 0:
-                    del st.session_state.carrito[key_id]
+                # Si el valor cambió en la pantalla respecto al carrito, actualizamos
+                if metros != valor_actual:
+                    if metros > 0:
+                        st.session_state.carrito[key_id] = {
+                            "Colección": fila["Colección"],
+                            "Modelo": fila["Modelo"],
+                            "Metros": metros
+                        }
+                    elif key_id in st.session_state.carrito and metros == 0:
+                        del st.session_state.carrito[key_id]
+                    st.rerun()
 
 with col_derecha:
     st.header("🛒 Tu Pedido")
