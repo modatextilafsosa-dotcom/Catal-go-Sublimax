@@ -223,7 +223,7 @@ def cargar_datos():
         {"Colección": "HIP-HOP", "Modelo": "HH 03", "URL": "https://drive.google.com/file/d/1aA8X8sDLNZUFOnDmhQPZHIK_KhAmj23j/view?usp=drivesdk"},
         {"Colección": "HIP-HOP", "Modelo": "HH 02", "URL": "https://drive.google.com/file/d/1VbTUj7RbATrNbqy69ooTyuV5dIouGwFH/view?usp=drivesdk"},
         {"Colección": "HIP-HOP", "Modelo": "HH 01", "URL": "https://drive.google.com/file/d/114SlJ4mabNCdbYDXyfCUP4h5hCQihuRC/view?usp=drivesdk"},
-                # Mítico
+        # Mítico
         {"Colección": "Mitico", "Modelo": "Mítico 08", "URL": "https://drive.google.com/file/d/1HT9fZmHHjFV0SS7u2ayr0KkoESDst5Ha/view?usp=drivesdk"},
         {"Colección": "Mitico", "Modelo": "Mítico 07", "URL": "https://drive.google.com/file/d/1evMqWBepqJpoN5Jsj69A88wiEDxNu2eB/view?usp=drivesdk"},
         {"Colección": "Mitico", "Modelo": "Mítico 06", "URL": "https://drive.google.com/file/d/1UZWS2zMPS4AaTY5W1sk8oWD-zTfT3U8s/view?usp=drivesdk"},
